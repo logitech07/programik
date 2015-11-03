@@ -1,1 +1,2 @@
-Hello GIT
+Helloz GIT
+pierwsza zmiana
